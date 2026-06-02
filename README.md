@@ -12,7 +12,6 @@
 
 ***DevPost Link: https://devpost.com/software/the-media-tranquilizer***
 ###
-<img width="688" height="99" alt="Screenshot 2026-05-25 at 8 44 39 PM" src="https://github.com/user-attachments/assets/87cd7348-8ea4-4bfc-8239-46ed030ad44f" />
 
 ***All architectural design, system integration, frontend/backend code, and documentation were conceived, structured, and authored end-to-end by cosmic-perott for the PennApps XXVI hackathon.***
 
